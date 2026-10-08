@@ -3,7 +3,9 @@
 **Aluno:** Théo Cubas Reis  
 **Tema:** 03 — Análise de Queimadas no Brasil  
 **Período:** 2015–2024
+
 **Matéria:** Linguagens de Programação
+
 **Professor:** Alexandre Neves Louzada
 
 ## Objetivo
