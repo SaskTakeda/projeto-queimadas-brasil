@@ -30,7 +30,7 @@ df = load_data()
 st.title("🔥 Análise de Queimadas no Brasil")
 
 st.markdown("""
-**Projeto G1 — Théo Cubas Reis | Alexandre Neves Louzada | Tema 03**
+**Projeto G1 — Théo Cubas Reis | Alexandre Neves Louzada | Tema 03 | Linguagens de Programação**
 
 Este dashboard investiga a evolução dos focos de queimadas no Brasil entre 2015 e 2024,
 com foco em padrões temporais, diferenças regionais, biomas, estados, risco ambiental
