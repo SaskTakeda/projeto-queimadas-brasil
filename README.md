@@ -3,6 +3,7 @@
 **Aluno:** Théo Cubas Reis  
 **Tema:** 03 — Análise de Queimadas no Brasil  
 **Período:** 2015–2024
+
 **Professor:** Alexandre Neves Louzada
 
 ## Objetivo
